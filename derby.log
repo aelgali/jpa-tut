@@ -1,4 +1,4 @@
-Fri Oct 24 18:00:15 CDT 2014 Thread[main,5,main] Cleanup action starting
+fsdfsdfsfdsfsdfri Oct 24 18:00:15 CDT 2014 Thread[main,5,main] Cleanup action starting
 java.sql.SQLException: Failed to start database 'C:\studentDB' with class loader sun.misc.Launcher$AppClassLoader@2d63c5bb, see the next exception for details.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
 	at org.apache.derby.impl.jdbc.Util.newEmbedSQLException(Unknown Source)
@@ -39,7 +39,7 @@ java.sql.SQLException: Failed to start database 'C:\studentDB' with class loader
 	at com.intellij.rt.execution.application.AppMain.main(AppMain.java:134)
 Caused by: java.sql.SQLException: Failed to start database 'C:\studentDB' with class loader sun.misc.Launcher$AppClassLoader@2d63c5bb, see the next exception for details.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
-	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
+sdfsfsdfasdfwq	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.wrapArgsForTransportAcrossDRDA(Unknown Source)
 	... 37 more
 Caused by: java.sql.SQLException: Another instance of Derby may have already booted the database C:\studentDB.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory.getSQLException(Unknown Source)
@@ -231,7 +231,7 @@ ERROR XSDB6: Another instance of Derby may have already booted the database C:\s
 	at org.apache.derby.impl.store.raw.data.BaseDataFileFactory.run(Unknown Source)
 	at java.security.AccessController.doPrivileged(Native Method)
 	at org.apache.derby.impl.store.raw.data.BaseDataFileFactory.getJBMSLockOnDB(Unknown Source)
-	at org.apache.derby.impl.store.raw.data.BaseDataFileFactory.boot(Unknown Source)
+	at orgOø.apache.derby.impl.store.raw.data.BaseDataFileFactory.boot(Unknown Source)
 	at org.apache.derby.impl.services.monitor.BaseMonitor.boot(Unknown Source)
 	at org.apache.derby.impl.services.monitor.TopService.bootModule(Unknown Source)
 	at org.apache.derby.impl.services.monitor.BaseMonitor.startModule(Unknown Source)
