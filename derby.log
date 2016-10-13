@@ -1,4 +1,4 @@
-Fri Oct 24 18:00:15 CDT 2014 Thread[main,5,main] Cleanup action starting
+fdsfsdfri Oct 24 18:00:15 CDT 2014 Thread[main,5,main] Cleanup action starting
 java.sql.SQLException: Failed to start database 'C:\studentDB' with class loader sun.misc.Launcher$AppClassLoader@2d63c5bb, see the next exception for details.
 	at org.apache.derby.impl.jdbc.SQLExceptionFactory40.getSQLException(Unknown Source)
 	at org.apache.derby.impl.jdbc.Util.newEmbedSQLException(Unknown Source)
